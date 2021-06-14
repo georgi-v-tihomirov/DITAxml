@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insert_a_picture_from_your_device_in_a_powerpoint_presentation">
+    <title>Insert a picture from your device in a PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to insert a picture from your device in a
+        PowerPoint presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ypg_mx4_5pb">You must have <ul id="ul_x35_mx4_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+                <li>A picture to be inserted to the presentation</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>Insert</b></cmd>
+            </step>
+            <step>
+                <cmd>Select <b>This device</b> and navigate and select the desired picture.</cmd>
+                <info><image href="insert_a_picture_from_device.jpg" id="image_kpr_sx4_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_vvs_tx4_5pb">
+            <p>You have inserted a picture from your device in the PowerPoint presentation.</p>
+        </result>
+    </taskbody>
+</task>

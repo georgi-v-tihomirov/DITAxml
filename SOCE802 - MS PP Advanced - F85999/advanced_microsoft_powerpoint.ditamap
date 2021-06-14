@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Advanced Microsoft PowerPoint - F85999 Georgi Tihomirov</title>
+    <topichead navtitle="Create new blank PowerPoint presentation">
+        <topicref href="create_new_blank_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="Save a PowerPoint presentation">
+        <topicref href="save_a_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="Insert a new slide in a PowerPoint presentation">
+        <topicref href="insert_a_new_slide_in_a_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="Insert a picture from your device in a PowerPoint presentation">
+        <topicref href="insert_a_picture_from_your_device_in_a_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="Insert a picture from Internet in a PowerPoint presentation">
+        <topicref href="insert_a_picture_from_internet_in_a_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="View a PowerPoint presentation">
+        <topicref href="view_a_powerpoint_presentation.dita"/>
+    </topichead>
+    <topichead navtitle="Playing sound through entire slideshow">
+        <topicref href="playing_sound_through_entire_slideshow.dita"/>
+    </topichead>
+    <topichead navtitle="Slideshow timing for individual slides">
+        <topicref href="timing_the_slideshow_for_individual_slides.dita"/>
+    </topichead>
+    <topichead navtitle="YouTube videos and automatic playback">
+        <topicref href="insert_videos_from_youtube_and_set_automatic_playback.dita"/>
+    </topichead>
+</map>

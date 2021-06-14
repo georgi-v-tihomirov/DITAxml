@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="view_a_powerpoint_presentation">
+    <title>View a PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to view a PowerPoint presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_crs_dz4_5pb">You must have<ul id="ul_rb2_2z4_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>Slideshow</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>From beginning</b> to view a PowerPoint presentation.</cmd>
+                <info><image href="view_a_presentation.jpg" id="image_wmt_kz4_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_yvk_lz4_5pb">
+            <p>Your PowerPoint will be visualized on your screen.</p>
+        </result>
+    </taskbody>
+</task>

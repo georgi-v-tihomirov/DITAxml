@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_new_blank_powerpoint_presentation">
+    <title>Create new blank PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to create a blank PowerPoint
+        presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_vdj_kxn_5pb">You must have <ul id="ul_nrw_sxn_5pb">
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>Windows 7 or newer</li>
+            </ul><p>Steps: </p></prereq>
+        <steps>
+            <step>
+                <cmd>Open PowerPoint from the Desktop icon or the icon in the Start menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Create</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Blank Presentation</b>.</cmd>
+                <info><image href="create_presentation.jpg" id="image_pf3_4p4_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_bzg_rp4_5pb">
+            <p>You will create a new blank PowerPoint presentation.</p>
+        </result>
+        <example id="example_c5t_tp4_5pb"><p>If you have completed the steps, you will see this on
+                the screen:</p><image href="new_blank_presentation.png" id="image_s1s_wp4_5pb"
+            /></example>
+    </taskbody>
+</task>

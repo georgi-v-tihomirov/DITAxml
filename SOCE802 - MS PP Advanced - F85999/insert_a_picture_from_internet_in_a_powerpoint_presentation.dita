@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insert_a_picture_from_internet_in_a_powerpoint_presentation">
+    <title>Insert a picture from Internet in a PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to insert a picture from Internet in a PowerPoint
+        presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_eft_1y4_5pb">You must have<ul id="ul_rnn_by4_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+                <li>Internet connection</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>Insert</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Online Pictures</b>.</cmd>
+                <info><image href="insert_a_picture_from_web.jpg" id="image_b23_hy4_5pb"/></info>
+            </step>
+            <step>
+                <cmd>Type the image in the <b>Search bar</b> and press <b>Enter</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the desired image.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Insert</b>to insert the picture in the current slide.</cmd>
+                <info><image href="insert_a_picture_from_web_sear.jpg" id="image_gvv_qy4_5pb"
+                    /></info>
+            </step>
+        </steps>
+        <result id="result_txk_ry4_5pb">
+            <p>You have inserted a picture from Internet in the PowerPoint presentation.</p>
+        </result>
+    </taskbody>
+</task>

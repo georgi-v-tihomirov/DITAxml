@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insert_a_new_slide_in_a_powerpoint_presentation">
+    <title>Insert a new slide in a PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to insert a new slide in PowerPoint
+        presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_rp4_454_5pb">You must have<ul id="ul_k5h_p54_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>Home</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>New Slide</b> and select the desired Slide Layout.</cmd>
+                <info><image href="insert_a_new_slide.jpg" id="image_fkl_1v4_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_wg5_1v4_5pb">
+            <p>You have inserted a new slide in the PowerPoint presentation.</p>
+        </result>
+    </taskbody>
+</task>

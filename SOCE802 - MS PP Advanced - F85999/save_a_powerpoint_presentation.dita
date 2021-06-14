@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="save_a_powerpoint_presentation">
+    <title>Save a PowerPoint presentation</title>
+    <shortdesc>In this section, you will learn how to save a PowerPoint presentation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_wfh_st4_5pb">You must have<ul id="ul_zvx_tt4_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+            </ul><p>Steps: </p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>File</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Save</b> to save the current presentation, or <b>Save As</b> to save
+                    a new presentation on your device or in <b>OneDrive</b>.</cmd>
+                <info><image href="save_presentation.jpg" id="image_o3s_d54_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_dhk_254_5pb">
+            <p>You have saved a PowerPoint presentation on your device.</p>
+        </result>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="timing_the_slideshow_for_individual_slides">
+    <title>Timing the slideshow for individual slides</title>
+    <shortdesc>In this section, you will learn how to set timing to each individual
+        slide.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_x4m_2dp_5pb">You must have<ul id="ul_mfy_2dp_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select the desired slide.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Transitions</b> and navigate to <b>Timing</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>After</b> and type in the desired time.</cmd>
+                <info><image href="set%20timing.png" id="image_xrx_n2p_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_elt_42p_5pb">
+            <p>After doing the steps for each individual slide, your slideshow will play
+                automatically.</p>
+        </result>
+    </taskbody>
+</task>

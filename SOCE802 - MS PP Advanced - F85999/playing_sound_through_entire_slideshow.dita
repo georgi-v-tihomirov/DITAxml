@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="playing_sound_through_entire_slideshow">
+    <title>Playing sound through entire slideshow</title>
+    <shortdesc>In this section, you will learn how to play a sound through the entire
+        slidshow.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_o4t_f1p_5pb">You must have<ul id="ul_hrc_g1p_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+                <li>A sound in supported file format</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Select <b>Insert</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Audio</b> and then select <b>Audio on My PC</b>.</cmd>
+                <info><image href="insert%20a%20sound.png" id="image_d2l_rbp_5pb"/></info>
+            </step>
+            <step>
+                <cmd>Select the audio file you want to add.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Insert</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the audio icon and then select the <b>Audio Tools Playback</b>
+                    tab.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Play Across Slides</b>.</cmd>
+                <info><image href="set%20sound%20to%20play%20whrough%20slides.png"
+                        id="image_ydc_xbp_5pb"/></info>
+            </step>
+        </steps>
+        <result id="result_xm2_ybp_5pb">
+            <p>Your audio file will play through slides without interuption.</p>
+        </result>
+    </taskbody>
+</task>

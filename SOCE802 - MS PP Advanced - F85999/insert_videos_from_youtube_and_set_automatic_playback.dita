@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insert_videos_from_youtube_and_set_automatic_playback">
+    <title>Insert videos from YouTube and set automatic playback</title>
+    <shortdesc>In this section, you will learn how to add videos from YouTube and set an automatic
+        playback.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fmm_bfp_5pb">You must have <ul id="ul_jvm_cfp_5pb">
+                <li>Windows 7 or newer</li>
+                <li>Microsoft PowerPoint 2007 or newer</li>
+                <li>A PowerPoint presentation</li>
+                <li>Internet connection</li>
+                <li>A web browser</li>
+            </ul><p>Steps:</p></prereq>
+        <steps>
+            <step>
+                <cmd>Open your browser and navigate on YouTube to the video, that you want to
+                    add.</cmd>
+            </step>
+            <step>
+                <cmd>Copy the video's URL from the <b>Address</b> bar.</cmd>
+            </step>
+            <step>
+                <cmd>Open <b>PowerPoint</b> and select the slide, on which you want to place the
+                    video.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Insert</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Multimedia</b> and select <b>Video</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Online video</b>.</cmd>
+                <info><image href="insert%20a%20video.png" id="image_bjv_zgp_5pb"/></info>
+            </step>
+            <step>
+                <cmd>In the <b>Online Video</b> dialog box paste the URL you copied in step 2.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Insert.</b></cmd>
+                <info><image href="insert%20a%20video%202.png" id="image_esl_ghp_5pb"/></info>
+            </step>
+            <step>
+                <cmd>Select the video.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Video tools</b> and select <b>Playback</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Next to <b>Start</b>, click the down arrow, and select
+                    <b>Automatically</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_f3q_3lp_5pb">
+            <p>You have inserted a video from YouTube, which plays automatically when you open the
+                slide in Slideshow view.</p>
+        </result>
+    </taskbody>
+</task>
